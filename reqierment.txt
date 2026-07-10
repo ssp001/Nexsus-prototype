@@ -1,0 +1,9 @@
+pageindex
+minio
+logfire
+pydantic-settings
+polling2
+fastapi
+uvicorn
+python-multipart
+streamlit
